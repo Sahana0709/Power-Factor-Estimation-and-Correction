@@ -134,9 +134,6 @@ Power-Factor-Estimation-and-Correction/
 │
 ├── docs/
 │   └── Project_Report.pdf
-│
-└── hardware/
-    └── Circuit_Diagram.png
 ```
 
 ---
